@@ -1,0 +1,6 @@
+m = float(input('Quantos metros? '))
+cm = m * 100
+mm = m * 1000
+print('{} metros tem:'.format(m))
+print('{} centímetros.'.format(cm))
+print('{} mílimetros.'.format(mm))
