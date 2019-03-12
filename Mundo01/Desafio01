@@ -1,1 +1,2 @@
-print('Olá Mundo!')
+nome = str(input('Digite seu Nome: '))
+print('Olá {}, prazer em te conhecer'.format(nome))
