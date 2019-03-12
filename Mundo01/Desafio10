@@ -1,0 +1,3 @@
+dinheiro = float(input('Digite quanto tem na careira: R$ '))
+dolar = dinheiro / 3.27
+print('Convertendo {:.2f} em dólar você teria {:.2f} U$$'.format(dinheiro, dolar))
